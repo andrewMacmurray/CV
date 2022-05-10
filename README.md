@@ -1,28 +1,31 @@
 # Andrew MacMurray
 
-## Software Developer
+## Software Engineer
 
-I'm a software developer at 8th Light, passionate about functional programming.
+I'm a freelance Software Engineer, passionate about and skilled in functional programming.
 
 ## Languages and Skills
 
 + Elm
 + Haskell
++ PureScript
 + Elixir
-+ Clojure
-+ Java
-+ Ruby
++ Kotlin
 + JavaScript
 + AWS
 
 ## Projects I'm proud of
 
++ A GraphQL alternative FullStack implementation of the RealWorld spec - https://github.com/andrewMacmurray/realworld-hasura
++ A performant typesafe animation DSL for Elm applications - https://github.com/andrewMacmurray/elm-simple-animation 
 + A smartphone quality game for the browser - https://www.seedsgame.com/
 + Speaker at [Elm in the Spring Conference](https://www.elminthespring.org/) - Chicago Elm Conference
 
 ## Places I've worked
 
-+ 8th Light (April 2018 - present) https://8thlight.com/
++ Connective MedTech (CTO) (January 2022 - Present)
++ NoRedInk (August 2021 - January 2022) https://www.noredink.com/
++ 8th Light (April 2018 - July 2021) https://8thlight.com/
 + CAST (January 2017 - January 2018) http://www.wearecast.org.uk/
 + Fat Lama (August - November 2016) https://fatlama.com
 
