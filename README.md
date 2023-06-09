@@ -2,7 +2,7 @@
 
 ## Senior Software Engineer
 
-I'm a polyglot Software Engineer with 5 year professional experience.
+I'm a polyglot Software Engineer with 6 year professional experience.
 
 I’m experienced in many languages, programming styles (Object Oriented, Functional) and have worked at all levels of the technology stack (Frontend, Backend, Infrastructure and Ops).
 
@@ -10,16 +10,19 @@ I’m most passionate about pure functional programming and practicing good, sus
 
 ## Languages and Skills
 
-- Elm
-- PureScript
-- Haskell
+- Elm, PureScript, Haskell
 - Kotlin
 - JavaScript / TypeScript
-- AWS / Terraform
+- Postgres
+- AWS, Terraform
 
 ## Places I've worked
 
-- Connective MedTech (CTO) (January 2022 - Present)
+- Signal AI (Senior Software Engineer) (August 2022 - Present) [https://www.signal-ai.com/](https://www.signal-ai.com/)
+  - Worked on the data platform team
+  - Responsible for content ingestion and ML realtime pipelines
+  - Maintaining a collection of clojure and python microservices
+- Connective MedTech (CTO) (January 2022 - August 2022)
   - Worked on assessing product viability for an app for orthopaedic surgeons
   - Built out technology platform for MVP (Elm, Hasura, PureScript, Postgres)
   - Responsible for Design, prototyping and UX research
